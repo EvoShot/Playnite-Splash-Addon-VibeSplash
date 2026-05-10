@@ -1,7 +1,7 @@
-﻿Id: 12345678-1234-1234-1234-1234567890AB
-Name: Splash Addon
-Author: Artzox
-Version: 1.0.2
-Module: SplashAddon.dll
+﻿Id: a3f7c812-4d9e-47b1-b563-9e1a2c3d4f50
+Name: VibeSplash
+Author: EvoShot (fork of Artzox/Playnite-Splash-Addon)
+Version: 4.9.2.5
+Module: VibeSplash.dll
 Type: GenericPlugin
-EntryPoint: SplashAddon.SplashAddonPlugin
+EntryPoint: VibeSplash.VibeSplashPlugin
